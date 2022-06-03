@@ -1,6 +1,6 @@
 # Stockx Discord Command Bot
 
-This is a Discord Command bot that allows you to search for sneaker stats from StockX. Watch the [Scraping StockX] Video.
+This is a Discord Command bot that allows you to search for sneaker stats from StockX. Watch the [Scraping StockX](https://www.youtube.com/watch?v=bLCx348H0Kw) Video.
 
 ## Set-Up
 1. Ensure you have Python 3+ installed. You can install it at this link [here](https://www.python.org/downloads/).
